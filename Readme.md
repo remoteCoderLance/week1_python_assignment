@@ -14,8 +14,6 @@ A simple **command-line calculator** built in Python that performs basic arithme
 ---
 
 ## 📂 Project Structure
-basic-calculator/
-│
 ├── assignment.py # Main calculator script
 └── README.md # Project documentation
 
