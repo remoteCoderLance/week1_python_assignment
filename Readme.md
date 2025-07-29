@@ -28,14 +28,14 @@ A simple **command-line calculator** built in Python that performs basic arithme
     ```bash
     python assignment.py
 
+2. **🖥️ Usage Example**
+    ```bash
+    Enter the first number: 10
+    Enter the second number: 5
+    Enter operation (+, -, *, /): +
+    10.0 + 5.0 = 15.0
 
-🖥️ Usage Example
-Enter the first number: 10
-Enter the second number: 5
-Enter operation (+, -, *, /): +
-10.0 + 5.0 = 15.0
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python 3.x
 
 
