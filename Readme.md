@@ -22,12 +22,11 @@ A simple **command-line calculator** built in Python that performs basic arithme
 ## 🔧 How to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/basic-calculator.git
-   cd basic-calculator
+   git clone https://github.com/remoteCoderLance/week1_python_assignment.git
 
 2. **Run the Python scripty**
     ```bash
-    python calculator.py
+    python assignment.py
 
 
 🖥️ Usage Example
@@ -59,4 +58,4 @@ This project is licensed under the MIT License.
 Let me know if you'd like me to:
 - Add **GitHub badges**
 - Include a **screenshot or GIF**
-- Create a `calculator.py` code block inside the README for reference
+- Create a `assignment.py` code block inside the README for reference
