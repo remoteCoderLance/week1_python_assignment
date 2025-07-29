@@ -1,3 +1,10 @@
+def basic_calculator_intro():
+    print("------------------------------------------------")
+    print("-                BASIC CALCULATOR              -")
+    print("------------------------------------------------")
+    print("\n")
+
+
 def get_number(prompt):
     while True:
         try:
@@ -24,6 +31,7 @@ def calculate(a, b, op):
         return "Error: Division by zero" if b == 0 else a / b
 
 # Main program
+basic_calculator_intro()
 num1 = get_number("Enter the first number: ")
 num2 = get_number("Enter the second number: ")
 operation = get_operation()
