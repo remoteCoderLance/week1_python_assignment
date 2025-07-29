@@ -39,17 +39,17 @@ Enter operation (+, -, *, /): +
 Python 3.x
 
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 ➕ Support for power (^) and modulus (%) operations
 🔄 Add a loop for continuous calculations
 🖼️ Build a GUI version using Tkinter
 📜 Implement a calculation history feature
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
 
