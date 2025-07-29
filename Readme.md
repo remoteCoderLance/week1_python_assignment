@@ -26,7 +26,8 @@ A simple **command-line calculator** built in Python that performs basic arithme
    cd basic-calculator
 
 2. **Run the Python scripty**
-python calculator.py
+    ```bash
+    python calculator.py
 
 
 🖥️ Usage Example
